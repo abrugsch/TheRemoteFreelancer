@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="./RemoteFreelancer.png">
 </p>
@@ -7,6 +8,8 @@ List of community-curated resources to find topical remote freelance &amp; contr
 
 ## Why
 This repo was inspired by [this Hacker News thread](https://news.ycombinator.com/item?id=12773282) about one software developer's experience with Upwork. For all those who have had bad experiences with Upwork, I wanted to create a list of additional resources that software developers can use to find freelance, nomadic and contract work. 
+
+follow up thread with useful info: [here](https://news.ycombinator.com/item?id=12775983)
 
 ## Contributing
 Please please please contribute to the list! If you have freelance work available, or know someone who does, feel free to open a pull request to augment this list! If PRs come in quuite regularly I'll actually bother to create a website and backend for it.
